@@ -1,0 +1,14 @@
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\bin\Debug\net8.0\The Enhanced Calculator Program.exe
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\bin\Debug\net8.0\The Enhanced Calculator Program.deps.json
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\bin\Debug\net8.0\The Enhanced Calculator Program.runtimeconfig.json
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\bin\Debug\net8.0\The Enhanced Calculator Program.dll
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\bin\Debug\net8.0\The Enhanced Calculator Program.pdb
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\obj\Debug\net8.0\The Enhanced Calculator Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\obj\Debug\net8.0\The Enhanced Calculator Program.AssemblyInfoInputs.cache
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\obj\Debug\net8.0\The Enhanced Calculator Program.AssemblyInfo.cs
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\obj\Debug\net8.0\The Enhanced Calculator Program.csproj.CoreCompileInputs.cache
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\obj\Debug\net8.0\The Enhanced Calculator Program.dll
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\obj\Debug\net8.0\refint\The Enhanced Calculator Program.dll
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\obj\Debug\net8.0\The Enhanced Calculator Program.pdb
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\obj\Debug\net8.0\The Enhanced Calculator Program.genruntimeconfig.cache
+D:\Anirudh Cs\Math\The Enhanced Calculator Program\The Enhanced Calculator Program\obj\Debug\net8.0\ref\The Enhanced Calculator Program.dll

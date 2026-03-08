@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "The Enhanced Calculator Program/1.0.0": {
+        "runtime": {
+          "The Enhanced Calculator Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The Enhanced Calculator Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
